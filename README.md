@@ -1,7 +1,8 @@
 # Cohort-3.0-Python-Programming-Fellowship-Assignments.
 Arewa Data Science Academy
 https://medium.com/@salisuindabawa/striding-the-journey-to-data-science-9b7e7db52fea
-Striding The Journey To Data Science
+
+__*Striding The Journey To Data Science*__
 
 # By Salisu M. Indabawa
 
