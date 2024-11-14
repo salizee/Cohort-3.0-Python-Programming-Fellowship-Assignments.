@@ -3,7 +3,7 @@ Arewa Data Science Academy
 https://medium.com/@salisuindabawa/striding-the-journey-to-data-science-9b7e7db52fea
 Striding The Journey To Data Science
 
-Salisu M. Indabawa
+# By Salisu M. Indabawa
 
 As tech enthusiasts, our long days were often spent darting from one meet-up to another and participating in hackathons across various communities and institutions, all without a clear sense of what expertise I should pursue in the vast tech landscape.
 
@@ -13,4 +13,4 @@ My past unproductive ventures had finally started to bear fruit academically and
 
 Through careful consideration and invaluable mentorship sessions at leading tech institutions like Ehealth Africa and CITAD, I found direction. However, as I contemplated how to incorporate data science into my advanced studies, the exciting opportunity from Arewa Data Science Academy emerged — a rare chance to reshape my long-term ambition of becoming a data scientist. Selecting a career path necessitates diligent checks and balances, a common challenge for young people today. Mentorship and guidance play crucial roles in advancing one’s journey in tech, yet only the most resilient thrive. We must reflect on our experiences, learn from the past, and strive to make the tech ecosystem more inclusive and engaging, empowering more individuals to excel and contribute to our field.
 
-“Knowledge is power, and it is our responsibility to share it!”
+__“Knowledge is power, and it is our responsibility to share it!”__
